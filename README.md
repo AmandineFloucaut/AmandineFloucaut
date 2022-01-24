@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Gitlab profile :
+https://gitlab.com/users/AmandineFloucaut/projects
+
+#### CodePen profile
+https://codepen.io/Amande/pens/public
