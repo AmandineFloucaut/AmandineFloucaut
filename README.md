@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 #### Gitlab profile :
 https://gitlab.com/users/AmandineFloucaut/projects
 
-#### CodePen profile
+#### Codepen profile
 https://codepen.io/Amande/pens/public
